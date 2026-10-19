@@ -1,0 +1,139 @@
+                                                      Pythonni 0 dan OOP gacha   
+
+1-bo‘lim: Python sintaksisi
+
+1. print()
+2. comment
+3. indentation
+4. o‘zgaruvchilar (variables)
+5. nomlash qoidalari
+6. type()
+
+2-bo‘lim: Ma’lumot turlari
+
+1. int
+2. float
+3. complex
+4. string
+5. boolean
+6. None
+7. type conversion (casting)
+8. input()
+
+3-bo‘lim: Operatorlar
+
+1. arithmetic operators
+2. assignment operators
+3. comparison operators
+4. logical operators
+5. membership operators
+6. identity operators
+
+4-bo‘lim: Shart operatorlari
+
+1. if
+2. elif
+3. else
+4. nested if
+5. match / case
+
+5-bo‘lim: To‘plamlar (Collections)
+
+1. list
+2. tuple
+3. set
+4. dictionary
+5. string metodlari
+6. list metodlari
+7. dictionary metodlari
+8. set metodlari
+
+6-bo‘lim: Takrorlanish operatorlari (Loops)
+
+1. for loop
+2. while loop
+3. range()
+4. break
+5. continue
+6. pass
+7. nested loop
+
+7-bo‘lim: Funksiyalar
+
+1. function
+2. parameter
+3. argument
+4. return
+5. default parameter
+6. *args
+7. **kwargs
+8. lambda
+9. local/global scope
+
+8-bo‘lim: Modullar va muhit
+
+1. module
+2. import
+3. pip
+4. virtual environment
+5. package structure
+6. __name__ == "__main__"
+
+9-bo‘lim: Xatolar bilan ishlash
+
+1. syntax error
+2. runtime error
+3. try
+4. except
+5. finally
+6. raise
+
+10-bo‘lim: Fayllar va JSON
+
+1. file handling
+2. read file
+3. write file
+4. append file
+5. delete file
+6. JSON read/write
+
+11-bo‘lim: Foydali modullar
+
+1. datetime
+2. math
+3. random
+4. requests
+5. regex
+
+12-bo‘lim: Murakkab asoslar
+
+1. iterator
+2. generator
+3. list comprehension
+4. dictionary comprehension
+5. type hints
+6. docstring
+7. debugging
+8. clean code
+9. basic testing
+
+13-bo‘lim: OOP
+
+1. class
+2. object
+3. __init__
+4. self
+5. instance variable
+6. class variable
+7. method
+8. class method
+9. static method
+10. property
+11. encapsulation
+12. inheritance
+13. super()
+14. polymorphism
+15. abstraction
+16. magic methods
+17. dataclass
+18. real OOP mini project
