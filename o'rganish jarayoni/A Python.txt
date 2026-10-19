@@ -1,6 +1,6 @@
-                                                      Pythonni 0 dan OOP gacha   
+                                                       Pythonni 0 dan OOP gacha   
 
-1-bo‘lim: Python sintaksisi
+1-bo‘lim: Python sintaksisi  [Modul 1: 1 – 10] (10 ta masala)
 
 1. print()
 2. comment
@@ -9,7 +9,7 @@
 5. nomlash qoidalari
 6. type()
 
-2-bo‘lim: Ma’lumot turlari
+2-bo‘lim: Ma’lumot turlari  [Modul 1: 11 – 20] (10 ta masala)
 
 1. int
 2. float
@@ -20,7 +20,7 @@
 7. type conversion (casting)
 8. input()
 
-3-bo‘lim: Operatorlar
+3-bo‘lim: Operatorlar  [Modul 1: 21 – 31] (11 ta masala)
 
 1. arithmetic operators
 2. assignment operators
@@ -29,7 +29,7 @@
 5. membership operators
 6. identity operators
 
-4-bo‘lim: Shart operatorlari
+4-bo‘lim: Shart operatorlari  [Modul 1: 32 – 68] (37 ta masala)
 
 1. if
 2. elif
@@ -37,28 +37,30 @@
 4. nested if
 5. match / case
 
-5-bo‘lim: To‘plamlar (Collections)
+5-bo‘lim: To‘plamlar (Collections)  [Modul 1 va Modul 2] (Jami: 227 ta masala)
 
-1. list
+1. list  -> [Modul 2: 39 – 108] (70 ta masala)
 2. tuple
 3. set
 4. dictionary
-5. string metodlari
-6. list metodlari
+5. string metodlari  -> [Modul 1: 135 – 200 (satrlar: 43 ta) & Modul 2: 129 – 222 (94 ta)] (Jami: 137 ta)
+6. list metodlari  -> [Modul 2: 39 – 108 ichida]
 7. dictionary metodlari
 8. set metodlari
+* 2D massivlar (Matritsalar / Nested list) -> [Modul 2: 109 – 128] (20 ta masala)
 
-6-bo‘lim: Takrorlanish operatorlari (Loops)
+6-bo‘lim: Takrorlanish operatorlari (Loops)  [Modul 1: 69 – 134] (66 ta masala)
 
-1. for loop
-2. while loop
+1. for loop  -> [Modul 1: 69 – 92] (24 ta masala)
+2. while loop  -> [Modul 1: 93 – 104, 134] (13 ta masala)
 3. range()
 4. break
 5. continue
 6. pass
-7. nested loop
+7. nested loop  -> [Modul 1: 105 – 122] (18 ta shakllar masalasi)
+* Qo‘shimcha algoritmik takrorlanishlar (EKUB, EKUK, tub sonlar) -> [Modul 1: 123 – 133] (11 ta masala)
 
-7-bo‘lim: Funksiyalar
+7-bo‘lim: Funksiyalar  [Modul 2: 1 – 38] (38 ta masala)
 
 1. function
 2. parameter
@@ -70,7 +72,7 @@
 8. lambda
 9. local/global scope
 
-8-bo‘lim: Modullar va muhit
+8-bo‘lim: Modullar va muhit  [Amaliy muhit va paketlar topshiriqlari]
 
 1. module
 2. import
@@ -79,7 +81,7 @@
 5. package structure
 6. __name__ == "__main__"
 
-9-bo‘lim: Xatolar bilan ishlash
+9-bo‘lim: Xatolar bilan ishlash  [Xatolarni ushlash amaliyoti (try-except)]
 
 1. syntax error
 2. runtime error
@@ -88,7 +90,7 @@
 5. finally
 6. raise
 
-10-bo‘lim: Fayllar va JSON
+10-bo‘lim: Fayllar va JSON  [Amaliy fayl va ma’lumotlar bilan ishlash]
 
 1. file handling
 2. read file
@@ -97,19 +99,19 @@
 5. delete file
 6. JSON read/write
 
-11-bo‘lim: Foydali modullar
+11-bo‘lim: Foydali modullar  [Modul 1: math masalalari (9 ta) + amaliyot]
 
 1. datetime
-2. math
+2. math  -> [Modul 1: 139, 140, 146, 162, 164, 173, 180, 181, 182] (9 ta masala)
 3. random
 4. requests
 5. regex
 
-12-bo‘lim: Murakkab asoslar
+12-bo‘lim: Murakkab asoslar  [Comprehensions va ilg‘or usullar]
 
 1. iterator
 2. generator
-3. list comprehension
+3. list comprehension  -> [Modul 2: 39 – 108 masalalarini comprehension bilan yechish]
 4. dictionary comprehension
 5. type hints
 6. docstring
@@ -117,7 +119,7 @@
 8. clean code
 9. basic testing
 
-13-bo‘lim: OOP
+13-bo‘lim: OOP  [Amaliy mini-loyihalar]
 
 1. class
 2. object
